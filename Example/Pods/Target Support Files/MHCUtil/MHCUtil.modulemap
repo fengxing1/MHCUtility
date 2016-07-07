@@ -1,0 +1,6 @@
+framework module MHCUtil {
+  umbrella header "MHCUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}

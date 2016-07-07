@@ -1,0 +1,16 @@
+PODS:
+  - MHCUtil (0.1.0)
+
+DEPENDENCIES:
+  - MHCUtil (from `../`)
+
+EXTERNAL SOURCES:
+  MHCUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MHCUtil: 349a6e2dbf17a9bd96e3322b2a0ac5215c8e8cfb
+
+PODFILE CHECKSUM: bc12719b61443f75169fde6eae2c2af13867c945
+
+COCOAPODS: 1.0.1
